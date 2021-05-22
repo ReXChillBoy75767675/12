@@ -1,0 +1,47 @@
+body{
+  background-image: url(https://img1.akspic.ru/originals/3/1/7/9/4/149713-purpur-grafika-fioletovyj-voda-kompaniya_huawei_mediapad_na_m6-1920x1080.jpg);
+}
+li{
+  display: inline-block;
+ padding: 20px 10px;
+}
+a{
+  background-color: #E5C7F6;
+border: 1px solid #FF77AF;
+border-radius: 5px;
+font-size: 25px;
+padding: 5px 5px;
+text-decoration: none;
+color : white;
+}
+a:hover{
+  background-color:#E8E1E7;
+  border: 1px solid:#F4DBDB ;
+  border-radius: 5px;
+  font-size: 25px;
+  padding: 5px 5px;
+  text-decoration: none;
+  color : white;
+}
+p{
+  color: blue;
+}
+.button{
+  background-color:#E8E1E7;
+  border: 1px;
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 10px 25px;
+  color : white;
+  width: 105px;
+}
+.posts{
+  background-color:#E8E1E7;
+  border: 1px solid:#F4DBDB ;
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 10px 25px;
+  text-decoration: none;
+  color : white;
+    margin: 10px 10px;
+}
